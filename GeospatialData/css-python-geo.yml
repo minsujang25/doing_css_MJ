@@ -1,0 +1,27 @@
+name: css-python-geo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipywidgets
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - geopandas
+  - folium
+  - openpyxl
+  - pyproj
+  - shapely
+  - requests
+  - transformers
+  - tqdm
+  - pip
+  - pip:
+      - sentence-transformers
+      - bertopic
+      - streamlit
+      - streamlit-folium
