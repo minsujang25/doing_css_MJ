@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10
+  - python=3.9
   - jupyterlab
+  - notebook=6.5
   - ipywidgets
   - pandas
-  - numpy
   - scikit-learn
   - matplotlib
   - plotly
@@ -19,9 +19,17 @@ dependencies:
   - requests
   - transformers
   - tqdm
+  - seaborn
+  - pyzmq
+  - swifter
+  - pytorch>=2.0
   - pip
   - pip:
       - sentence-transformers
       - bertopic
+      - gensim
       - streamlit
       - streamlit-folium
+      - langdetect
+      - google-cloud-translate
+      - rise
