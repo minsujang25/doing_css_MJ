@@ -12,7 +12,7 @@ This repository contains materials for the graduate workshop taught by **Minsu J
 | `LanguageDetection_Translation.ipynb` | Preprocessing pipeline: detects review language, translates non-English content using Google Translate API. |
 | `css-python-geo.yml` | Conda environment file. Reproduces the working environment for the workshop. |
 
-> **Note**: Pleasedownload all necessary data files from [Inside Airbnb](https://insideairbnb.com/get-the-data/) — including listings, reviews, and neighborhood GeoJSON files for Milan — and place them under a local `data/` directory. Also, make sure to include `preprocessed_comment_data.csv`,  which is generated after running `LanguageDetection_Translation.ipynb.`
+> **Note**: Please download all necessary data files from [Inside Airbnb](https://insideairbnb.com/get-the-data/) — including listings, reviews, and neighborhood GeoJSON files for Milan — and place them under a local `data/` directory. Also, make sure to include `preprocessed_comment_data.csv`,  which is generated after running `LanguageDetection_Translation.ipynb.`
 
 ---
 
