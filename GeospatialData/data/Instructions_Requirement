@@ -1,7 +1,8 @@
 Instruction to download required data from Inside Airbnb.
 
-1. Search "Milan"
-2. Download following files to this directory:
+1. Visit https://insideairbnb.com/get-the-data/ 
+2. Search "Milan"
+3. Download following files to this directory:
 	1. listings.csv.gz
 	2. reviews.csv.gz
 	3. neighbourhoods.csv
