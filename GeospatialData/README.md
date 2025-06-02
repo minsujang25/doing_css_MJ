@@ -57,7 +57,8 @@ jupyter lab
 
 ## 📝 Requirements
 
-- A stable Python 3.9 environment (see `css-python-geo.yml`)
+- A stable Python 3.9 environment (see `css-python-geo.yml`).
+> **Note**: I encourage you to download it through `Anaconda Distribution`. [Download Link](https://www.anaconda.com/download/success)
 - Google Cloud Translate credentials (for language translation notebook)
 - A GeoJSON file for Milan neighborhoods (go to [Inside Airbnb](https://insideairbnb.com/get-the-data/))
 
